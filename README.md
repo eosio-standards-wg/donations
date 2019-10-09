@@ -1,5 +1,5 @@
-EOSIO Standards Working Group, 2019
-===================================
+EOSIO Standards Working Group
+=============================
 
 This is an initiative by EOSIO engineering community members aiming to
 define common standards for common access for blockchain applications.
